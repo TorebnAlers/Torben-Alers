@@ -1,23 +1,23 @@
-# Hi there, I'm Torben 👋
+# Hey, I'm Torben 👋
 
 ## 🎓 About Me
 
-I'm a graduate student pursuing an MSc in **Economics and Business Administration** at **SDU (Southern Denmark University)** in Odense, Denmark. I'm passionate about building innovative solutions at the intersection of business and technology.
+I'm a graduate student pursuing an MSc in **Economics and Business Administration** at **SDU (University of Southern Denmark)** in Odense, Denmark. I'm passionate about building innovative solutions at the intersection of business and technology.
 
 **Current Focus:**
 - 💼 Currently working at **ABENA**
-- 🚀 Developing **PrimverbaAI** - An AI-powered spell-checking and grammar correction tool
-- 💼 Exploring opportunities in **project management**, **business development**, and **entrepreneurship**
+- 🚀 Exploring opportunities in **project management**, **business development**, and **entrepreneurship**
 - 🎯 Building MVPs and validating SaaS business models
-- 🌱 Part of the **SDU Bellow Zero** talent program
+- 🌱 Part of the **SDU Below Zero** talent program
 
 **Background:**
-- 📊 Previous internships at **EY** (leads & customer contact management) and **ASA Software**
-- - 🌍 Currently working at **ABENA**
-- 🌏 Semester abroad at **KKU, Thailand**
+- 📊 Previous internship at **ASA Software**
+- 🌏 Semester abroad at **Khon Kaen University (KKU)**, Thailand
 - 💡 Experience in market analysis, lead generation, and sales development
+- 📝 Bachelor’s thesis: **Cross-Border and Industry Diversification — The Case of ABENA’s Expansion into the Food Industry with a Focus on a Digital Approach** (Academic advisor: **Peter Enger Cochrane**) 
 
-## 💻 Tech Stack
+## 🧠 Courses I’ve Taken
+Innovation Management, Project Management, Portfolio Management, Accounting, Managerial Accounting, Advanced Quantitative Analysis, Cross-Cultural Management, Digitalization and Business, Cross-Cultural Communication, International Business, Business Development, Marketing, Business Law, Finance, Financial Accounting, Macroeconomics, Microeconomics, Economics, Market Research
 
 **Languages & Frameworks:**
 ```
@@ -35,20 +35,9 @@ C# • .NET • Python • JavaScript
 - Building AI-powered software products with API integrations
 - Developing business models and pricing strategies for SaaS
 - Creating 3D designs and prototypes
-- Producing 8D audio remixes and DJ mixes
 
-## 🎯 Interests Beyond Code
+## 🎯 Interests Beyond Code and Business
 
-- 🎵 **Music Production:** Post-hardcore, scenecore, 8D audio engineering
-- 💪 **Fitness:** Strength training (bench pressing ~126kg @ 87kg bodyweight)
-- 🎮 **Gaming:** Cyberpunk, Doom Eternal
-- 🍳 **Nutrition:** Recipe optimization and macro tracking
-- - ✈️ **Travel & Living Abroad:** Passionate about exploring new cultures and living/studying abroad
-
-## 📫 Let's Connect
-
-Interested in collaborating on innovative projects, discussing business development, or talking about the latest in AI and software development? Feel free to reach out!
-
----
-
-*"Building the future, one commit at a time."*
+- 🎵 **Music Production:** Techno, Hardcore, Scenecore, Uptempo, Hardtekk and Hip Hop
+- 💪 **Fitness:** Strength training, nutrition, pharmacology and BJJ
+- ✈️ **Travel & Living Abroad:** Passionate about exploring new cultures and living/studying abroad
