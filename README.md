@@ -5,6 +5,7 @@
 I'm a graduate student pursuing an MSc in **Economics and Business Administration** at **SDU (Southern Denmark University)** in Odense, Denmark. I'm passionate about building innovative solutions at the intersection of business and technology.
 
 **Current Focus:**
+- 💼 Currently working at **ABENA**
 - 🚀 Developing **PrimverbaAI** - An AI-powered spell-checking and grammar correction tool
 - 💼 Exploring opportunities in **project management**, **business development**, and **entrepreneurship**
 - 🎯 Building MVPs and validating SaaS business models
@@ -12,6 +13,7 @@ I'm a graduate student pursuing an MSc in **Economics and Business Administratio
 
 **Background:**
 - 📊 Previous internships at **EY** (leads & customer contact management) and **ASA Software**
+- - 🌍 Currently working at **ABENA**
 - 🌏 Semester abroad at **KKU, Thailand**
 - 💡 Experience in market analysis, lead generation, and sales development
 
@@ -41,6 +43,7 @@ C# • .NET • Python • JavaScript
 - 💪 **Fitness:** Strength training (bench pressing ~126kg @ 87kg bodyweight)
 - 🎮 **Gaming:** Cyberpunk, Doom Eternal
 - 🍳 **Nutrition:** Recipe optimization and macro tracking
+- - ✈️ **Travel & Living Abroad:** Passionate about exploring new cultures and living/studying abroad
 
 ## 📫 Let's Connect
 
