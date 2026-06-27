@@ -8,7 +8,7 @@ I'm a graduate student pursuing an MSc in **Economics and Business Administratio
 - 💼 Currently working at **ABENA**
 - 🚀 Exploring opportunities in **project management**, **business development**, and **entrepreneurship**
 - 🎯 Building MVPs and validating SaaS business models
-- 🌱 Part of the **SDU Below Zero** talent program
+- 🌱 Part of the **SDU Below Zero** talent program and **SDU Startup Station**
 
 **Background:**
 - 📊 Previous internship at **ASA Software**
@@ -26,18 +26,18 @@ C# • .NET • Python • JavaScript
 
 **Tools & Platforms:**
 - **Development:** VS Code, Cursor (AI-assisted), GitHub
-- **Productivity:** Obsidian, Google Workspace
-- **Design & Prototyping:** Tinkercad, Cura (3D printing)
+- **Productivity:** Obsidian, Google Workspace, Microsoft Office
+- **Design & Prototyping:** SelfCAD, Cura (3D printing)
 - **Project Management:** PMBOK methodologies, WBS, stakeholder analysis
 
 ## 🛠️ What I'm Working On
 
 - Building AI-powered software products with API integrations
 - Developing business models and pricing strategies for SaaS
-- Creating 3D designs and prototypes
+
 
 ## 🎯 Interests Beyond Code and Business
 
-- 🎵 **Music Production:** Techno, Hardcore, Scenecore, Uptempo, Hardtekk and Hip Hop
+- 🎵 **Music Production:** Techno, Hardcore, Scenecore, Uptempo, Hardstyle, Hardtekk and Hip Hop
 - 💪 **Fitness:** Strength training, nutrition, pharmacology and BJJ
 - ✈️ **Travel & Living Abroad:** Passionate about exploring new cultures and living/studying abroad
