@@ -31,8 +31,8 @@ I like building things at the intersection of business, data, and automation. My
 
 ## 🧰 Tech Stack
 
-```txt
 C# -  .NET -  Python -  JavaScript
+
 
 ## 📚 Coursework
 
