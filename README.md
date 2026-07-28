@@ -1,8 +1,8 @@
 # Hey, I'm Torben 👋
 
-I'm a German student, analyst, and founder based in Odense, Denmark. I’m currently pursuing an MSc in **Economics and Business Administration** at the **University of Southern Denmark**, with a focus on **Innovation and Business Development**, while working in **market intelligence and business development at ABENA** [file:1][file:2].
+I'm a German student, analyst, and founder based in Odense, Denmark. I’m currently pursuing an MSc in **Economics and Business Administration** at the **University of Southern Denmark**, with a focus on **Innovation and Business Development**, while working in **market intelligence and business development at ABENA**.
 
-I like building things at the intersection of business, data, and automation. My work and projects focus on turning research into useful systems, whether that means market intelligence, competitor monitoring, lead databases, or AI-assisted workflows [file:1][file:4].
+I like building things at the intersection of business, data, and automation. My work and projects focus on turning research into useful systems, whether that means market intelligence, competitor monitoring, lead databases, or AI-assisted workflows.
 
 ## 🎓 About Me
 
