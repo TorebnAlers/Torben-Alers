@@ -33,3 +33,24 @@ I like building things at the intersection of business, data, and automation. My
 
 ```txt
 C# -  .NET -  Python -  JavaScript
+
+## 📚 Coursework
+
+Innovation Management, Project Management, Portfolio Management, Accounting, Managerial Accounting, Advanced Quantitative Analysis, Cross-Cultural Management, Digitalization and Business, Cross-Cultural Communication, International Business, Business Development, Marketing, Business Law, Finance, Financial Accounting, Macroeconomics, Microeconomics, Economics, and Market Research.
+
+## 🎯 Current Focus
+
+- Building AI-powered software products.
+- Validating SaaS business models.
+- Strengthening project management and business development skills.
+- Exploring opportunities in market intelligence, strategy, and entrepreneurship.
+
+## 🌱 Beyond Work
+
+- **Fitness:** Strength training, nutrition, pharmacology, and BJJ.
+- **Music:** Techno, Hardcore, Scenecore, Uptempo, Hardstyle, Hardtekk, and Hip Hop.
+- **Travel:** I enjoy studying, working, and living across cultures.
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/torbenalers]
